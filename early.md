@@ -1,10 +1,8 @@
-You're early!
+You got up!
 
- It's only 7:30am and you have 15 more minutes till class starts.
- 
- You have two choices:
- 
- [Go get breakfast at the deli]()
- or
- [Go to class early]()
- 
+You got up on time and got ready for school!
+Now you're early to school and you have two choices:
+
+[Go get breakfast]()
+or
+[Go to class earlier]()

@@ -1,8 +1,6 @@
-You decided to go to class early!
+You decided to help the teacher!
 
-You're one of the first students to class and your teacher needs someone to help her with setting up the tables for a class activity
+You're one of the  students that decided to help your teacher and she gave you extra credit!
 
-Do you:
-[Help your teacher out](extra-cred.md)
-or 
-[Sit back and wait for class to start](../forget-hw.md)
+
+[Yay!](good-day.md)

@@ -5,4 +5,4 @@ Now you're early to school and you have two choices:
 
 [Go get breakfast](bad-day/detention.md)
 or
-[Go to class earlier](good-day/extra-cred.)
+[Go to class earlier](good-day/extra-cred.md)

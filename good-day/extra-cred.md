@@ -5,4 +5,4 @@ You're one of the first students to class and your teacher needs someone to help
 Do you:
 [Help your teacher out](extra-cred.md)
 or 
-[Sit back and wait for class to start](cyoa-project/forget-hw.md)
+[Sit back and wait for class to start](../forget-hw.md)

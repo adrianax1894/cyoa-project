@@ -9,3 +9,6 @@ What do you do?
 or
 
 [Copy your friend's homework](busted.md)
+
+
+![no hw](images/nohomework.jpg)

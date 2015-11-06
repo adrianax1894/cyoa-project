@@ -7,7 +7,7 @@ You're one of the first students to class and your teacher needs someone to help
 Do you:
 
 
-[Help your teacher out](extra-credit.md)
+[Help your teacher out](extra-cred.md)
 
 or 
 

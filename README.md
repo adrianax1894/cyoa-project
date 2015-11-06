@@ -11,4 +11,4 @@ The purpose of this project was to demonstrate our knowledge on linking and coll
 
 --------
 
-By [Kelley L](https://github.com/kelleyl9631) and [Adriana X](https://github.com/adrianax1894)
+By [Kelley Lam](https://github.com/kelleyl9631) and [Adriana Xique](https://github.com/adrianax1894)

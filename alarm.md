@@ -1,6 +1,5 @@
-Alarm
+##Alarm
 
-![alarm clock](images/alarm.png)
 
 It's 6:50am and your alarm for school is ringing.
 
@@ -11,3 +10,5 @@ Do you:
 or
 
 [Turn off alarm and get ready](good-day/early.md)
+
+![alarm clock](images/alarm.png)

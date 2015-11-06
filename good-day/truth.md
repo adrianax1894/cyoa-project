@@ -8,4 +8,4 @@ Luckily, your teacher appreciates your honesty and she gives you an extension on
 [Ayee, it's lit](good-day.md)
 
 
-![truth](../images/truth.jpg)
+![truth](../images/truth.jpeg)

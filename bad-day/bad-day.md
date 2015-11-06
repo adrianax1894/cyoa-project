@@ -5,4 +5,4 @@ Go to sleep and see if tomorrow will be better!
 
 [The Next Day](../alarm.md)
 
-![bad day](images/badday.png)
+![bad day](../images/badday.png)

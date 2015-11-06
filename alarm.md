@@ -1,6 +1,6 @@
 Alarm
 
-![alarm clock](images/alarm.jpg)
+![alarm clock](images/alarm.png)
 
 It's 6:50am and your alarm for school is ringing.
 

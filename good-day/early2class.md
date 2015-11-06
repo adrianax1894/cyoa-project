@@ -9,3 +9,5 @@ Do you:
 or 
 
 [Sit back and wait for class to start](../bad-day/forget-hw.md)
+
+![class](../images/class.jpg)

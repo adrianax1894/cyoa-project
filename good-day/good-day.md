@@ -3,3 +3,5 @@ Luck has been on your side today.
 The day is now over, let's see how your luck is tomorrow!
 
 [The Next Day](../alarm.md)
+
+![goodday](../images/goodday.jpg)

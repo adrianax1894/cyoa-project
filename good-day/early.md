@@ -9,3 +9,6 @@ Now you're early to school and you have two choices:
 or
 
 [Go to class earlier](early2class.md)
+
+
+![early](../images/early school.jpg)

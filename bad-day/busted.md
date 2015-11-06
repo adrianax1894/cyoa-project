@@ -6,4 +6,4 @@ Your teacher is not happy and gives you detention
 
 [Dang it!](bad-day.md)
 
-![busted](images/busted.png)
+![busted](../images/busted.png)

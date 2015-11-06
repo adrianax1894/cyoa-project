@@ -5,4 +5,4 @@ The teacher is so mad that she's giving you detention and now you have to stay a
 [Aw man!](bad-day.md)
 
 
-![detention](images/detention.jpg)
+![detention](../images/detention.jpg)

@@ -6,4 +6,4 @@ The teacher is so mad that she's giving you detention and now you have to stay a
 
 [Aw man!](bad-day.md)
 
-![](images/train-delay.jpg)
+![train](../images/train-delay.jpg)
